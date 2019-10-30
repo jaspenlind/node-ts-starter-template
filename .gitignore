@@ -1,3 +1,8 @@
+coverage
+dist
+.DS_Store
+
+# Git standard Node git ignore below
 # Logs
 logs
 *.log
