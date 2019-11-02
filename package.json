@@ -42,7 +42,7 @@
     "lint": "eslint \"**/*.{ts,tsx,js,jsx}\" --fix",
     "postversion": "git push && git push --tags && npm run clean",
     "prepare": "npm run build",
-    "prepublishOnly": "npm run test && num run lint",
+    "prepublishOnly": "npm run test && npm run lint",
     "release:alpha": "npm version prerelease --preid alpha -m \" build: :bookmark:%s\"",
     "release:beta": "npm version prerelease --preid beta -m \"build: :bookmark: %s\"",
     "release:patch": "npm version patch -m \"build: :bookmark: %s\"",

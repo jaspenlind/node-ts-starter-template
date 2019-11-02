@@ -5,6 +5,8 @@ before_script:
   - npm pack
 after_success:
   - npm run coveralls
+# Uncomment to generate typedoc documentation
+#  - npm run docs
 deploy:
   - provider: releases
     api_key: $GITHUB_DEPLOYMENT_KEY
@@ -20,6 +22,6 @@ deploy:
 # - provider: pages
 #   skip_cleanup: true
 #   local_dir: docs/
-#   github_token: $DEPLOYMENT_KEY
+#   github_token: $GITHUB_DEPLOYMENT_KEY
 #   on:
 #     tags: true
