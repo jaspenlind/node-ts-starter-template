@@ -2,7 +2,7 @@ import index from "../src/index";
 
 describe("starter", () => {
   it("should return package name", () => {
-    const name = "@jaspenlind/node-ts-starter-template";
+    const name = "node-ts-starter-template";
 
     expect(index).toBe(name);
   });
