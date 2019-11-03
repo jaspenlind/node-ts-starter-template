@@ -1,6 +1,6 @@
 # node-ts-starter-template
 
-- node.js starter template
+starter template for nodejs development with Typescript, eslint and more
 
 [![Build Status](https://travis-ci.com/jaspenlind/node-ts-starter-template.svg?branch=master)](https://travis-ci.com/jaspenlind/node-ts-starter-template)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d53c318f91a54f49822d30d9974c1003)](https://www.codacy.com/manual/jaspenlind/node-ts-starter-template?utm_source=github.com&utm_medium=referral&utm_content=jaspenlind/node-ts-starter-template&utm_campaign=Badge_Grade)
@@ -28,9 +28,8 @@ Get up to speed with nodejs development using this template with useful librarie
 
 ## Installation
 
-```shell
-npm install jaspenlind/node-ts-starter-template
-```
+1. Clone from [here](https://github.com/jaspenlind/node-ts-starter-template/generate)
+2. Initialze the repository: `npm run setup`
 
 ## Enable Github Pages docs site
 
