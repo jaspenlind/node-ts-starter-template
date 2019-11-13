@@ -55,7 +55,7 @@
     "version": "git add -A src"
   },
   "dependencies": {
-    "lodash-es": "^4.17.15",
+    "lodash": "^4.17.15",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
@@ -63,7 +63,7 @@
     "@types/git-repo-name": "^1.0.0",
     "@types/git-username": "^1.0.0",
     "@types/jest": "^24.0.18",
-    "@types/lodash-es": "^4.17.3",
+    "@types/lodash": "^4.14.146",
     "@types/promptly": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^2.3.3",
     "@typescript-eslint/parser": "^2.3.3",
