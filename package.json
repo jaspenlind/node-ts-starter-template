@@ -1,6 +1,6 @@
 {
   "name": "node-ts-starter-template",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Node starter template with TypeScript",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
