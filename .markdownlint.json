@@ -1,5 +1,5 @@
 {
   "MD013": false,
-  "MD030": { "ul_single": 3, "ol_multi": 2},
+  "MD030": { "ul_single": 3, "ol_single": 2},
   "MD004": { "style": "asterisk"}
 }

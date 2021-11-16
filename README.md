@@ -26,8 +26,8 @@ Get up to speed with nodejs development using this template with useful librarie
 
 ## Installation
 
-1. Clone from [here](https://github.com/jaspenlind/node-ts-starter-template/generate)
-2. Initialze your new repository: `npm run setup`
+1.  Clone from [here](https://github.com/jaspenlind/node-ts-starter-template/generate)
+2.  Initialze your new repository: `npm run setup`
 
 ## Test
 
