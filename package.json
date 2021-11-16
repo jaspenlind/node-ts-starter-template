@@ -20,8 +20,8 @@
     "husky",
     "prettier",
     "coveralls",
-    "vscode",
-    "travis"
+    "codacy",
+    "vscode"
   ],
   "author": "jaspenlind",
   "license": "MIT",
