@@ -4,7 +4,7 @@ starter template for nodejs development with Typescript, eslint and more
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e8a9b56a62c481c82849453963eabdc)](https://www.codacy.com/gh/jaspenlind/node-ts-starter-template/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jaspenlind/node-ts-starter-template&utm_campaign=Badge_Grade)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![Coverage Status](https://coveralls.io/repos/jaspenlind/node-ts-starter-template/badge.svg?branch=master)](https://coveralls.io/r/jaspenlind/node-ts-starter-template?branch=master)s
+[![Coverage Status](https://coveralls.io/repos/jaspenlind/node-ts-starter-template/badge.svg?branch=master)](https://coveralls.io/r/jaspenlind/node-ts-starter-template?branch=master)
 [![GitHub Pages](https://img.shields.io/badge/api-docs-blue)](https://jaspenlind.github.io/node-ts-starter-template/)
 [![GitHub](https://img.shields.io/github/license/jaspenlind/node-ts-starter-template)](https://github.com/jaspenlind/node-ts-starter-template/LICENSE)
 [![npm](https://img.shields.io/npm/v/node-ts-starter-template)](https://www.npmjs.com/package/node-ts-starter-template)
