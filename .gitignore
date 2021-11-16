@@ -1,5 +1,6 @@
 coverage
 dist
+docs
 .DS_Store
 
 # Git standard Node git ignore below
