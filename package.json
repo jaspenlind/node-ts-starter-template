@@ -37,7 +37,7 @@
     "clean": "rimraf coverage dist docs",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/.bin/coveralls",
     "debug": "node --nolazy --inspect-brk=9229 node_modules/jest/bin/jest.js -i",
-    "docs": "typedoc --tsconfig ./tsconfig.json src && shx cp .nojekyll docs/.nojekyll",
+    "docs": "npx typedoc && shx cp .nojekyll docs/.nojekyll",
     "format": "prettier --ignore-path .eslintignore --write \"**/*.{js,ts,jsx,tsx}\" -c",
     "lint": "eslint \"**/*.{ts,tsx,js,jsx}\" --fix",
     "postversion": "git push && git push --tags && npm run clean",
@@ -84,7 +84,7 @@
     "git-username": "^1.0.0",
     "husky": "^4.2.5",
     "jest": "^26.4.2",
-    "jest-extended": "^0.11.5",
+    "jest-extended": "^1.1.0",
     "lint-staged": "^10.2.13",
     "minimist": "^1.2.5",
     "pkg-homepage": "^0.1.1",
@@ -94,7 +94,7 @@
     "shx": "^0.3.2",
     "ts-jest": "^26.3.0",
     "ts-node": "^9.0.0",
-    "typedoc": "^0.18.0",
+    "typedoc": "^0.22.9",
     "typescript": "^4.0.2"
   },
   "husky": {
